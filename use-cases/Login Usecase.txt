@@ -1,0 +1,13 @@
+Name:
+Login
+
+Actors:
+Users
+
+Description:
+A user tries to open the application. The application prompts the user for a username and password. The username and password are checked against the database. If they match, the login disappears and an instance of the editor appears, provisioned properly.
+
+Important Considerations:
+Different users have differnt access, like admins, developers, and customers.
+
+

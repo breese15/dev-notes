@@ -1,0 +1,21 @@
+Actors:
+	Admin - In charge of provisioning system
+	Users - A person wishing to edit and/or view document
+	Customer - View and comment on documents for a project
+	Developer - Edit, view, link documents related to a project
+	IssueManagerSystem - legacy task management system
+	User Database -
+	Document Database -
+
+Cases:
+	Login - Admin, Developer, etc
+	Logout - Admin, Developer, etc
+	Create Project - Admin, Developer???
+	Link Files - Developers, Customer???
+	Delete Project - Admin ??? Check if customer wants this
+	Import Document - Developer
+	Manage Users - Admin
+	Comment on Project - Customer
+	Edit Project - Developer
+	View Documents - Admin, Developer, Customer
+	Edit Document - Developer, Customer
